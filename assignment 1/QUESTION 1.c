@@ -26,4 +26,8 @@ int main(void)
     {
         printf("%d is divisible by 8 \n",num);
     }
+    if(num%3!=0 && num%5!=0 && num%6!=0 && num%7!=0 && num%8!=0)
+    {
+        printf("%d is not divisible by 3,5,6,7,8",num);
+    }
 }
