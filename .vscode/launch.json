@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": ".",
-      "program": "build/Debug/outDebug",
+      "cwd": "c:/Users/rajiv/OneDrive/Documents/GitHub/faculty-of-technology/assignment2",
+      "program": "c:/Users/rajiv/OneDrive/Documents/GitHub/faculty-of-technology/assignment2/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
